@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jude Nwagu</h1>
-<h3 align="center">Google, Quantum, and DataCamp Certified Data Analyst with over 3 years of experience in leveraging data analysis, statistical modeling, and BI tools like Power BI and Tableau to optimize business processes. Adept at translating complex data into actionable insights for diverse stakeholders, with strong communication and business acumen. Currently learning Web3 Analytics with the goal of transitioning into Data Engineering in the near future.</h3>
+<h3 align="center">Google, Quantum, and DataCamp Certified Data Analyst with over 3 years of experience in leveraging data analysis, statistical modeling, and visualization tools like Power BI and Tableau to optimize business processes. Adept at translating datasets into actionable insights for diverse stakeholders, with strong communication and business acumen currently learning Data Governance with the intention of transitioning into Data Engineering while also building and collaborating on impactful projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=judoski366&label=Profile%20views&color=0e75b6&style=flat" alt="judoski366" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jcndata" target="blank"><img src="https://img.shields.io/twitter/follow/jcndata?logo=twitter&style=for-the-badge" alt="jcndata" /></a> </p>
 
 - 🔭 I’m currently working on **Austin Police Department**
 
@@ -11,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on **Web3 Analytics Project**
 
-- 👨‍💻 All of my projects are available at [https://www.novypro.com/manage_projects/nwagujude](https://www.novypro.com/manage_projects/nwagujude)
+- 👨‍💻 All of my powerbi projects are available at [https://www.novypro.com/manage_projects/nwagujude](https://www.novypro.com/profile_about/nwagujude)
 
-- 📝 I regularly write articles on [https://medium.com/@nwagujudechigozie](https://medium.com/@nwagujudechigozie)
+- 📝 I regularly write articles and also project documentation on [https://medium.com/@nwagujudechigozie](https://medium.com/@nwagujudechigozie)
 
 - 💬 Ask me about **Excel, SQL,Powerbi, Tableau, Python**
 
