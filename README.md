@@ -12,6 +12,8 @@
 
 - 👨‍💻 All of my powerbi projects are available at [https://www.novypro.com/manage_projects/nwagujude](https://www.novypro.com/profile_about/nwagujude)
 
+-  👨‍💻 All of my Tableau projects are available at [https://public.tableau.com/app/profile/jude.nwagu/vizzes](https://public.tableau.com/app/profile/jude.nwagu/vizzes)
+
 - 📝 I regularly write articles and also project documentation on [https://medium.com/@nwagujudechigozie](https://medium.com/@nwagujudechigozie)
 
 - 💬 Ask me about **Excel, SQL,Powerbi, Tableau, Python**
