@@ -13,7 +13,7 @@ Currently, I'm learning about data governance as I prepare to transition into da
 
 ## My Past Projects
 
-## [🚀Data-Driven Strategies for Boosting Customer Retention via ATM Performance Optimization](https://github.com/judoski366/Data-Driven_Atm-Optimization)
+## [Data-Driven Strategies for Boosting Customer Retention via ATM Performance Optimization](https://github.com/judoski366/Data-Driven_Atm-Optimization)
 
 ![Alt Text](https://github.com/judoski366/Data-Driven_Atm-Optimization/blob/main/Atm_pic.jpg)
 
@@ -35,7 +35,20 @@ Assessing credit risk has long been a critical yet complex challenge for financi
 ![Alt Text](https://github.com/judoski366/Nigeria-s-Fuel-Affordability-Compared-to-Other-Countries-An-Insightful-Analysis./blob/main/oil%20price.jpg)
 
 
-Nigeria, often referred to as the “Giant of Africa,” is a major oil-producing nation—yet rising fuel prices continue to place a heavy burden on its citizens. As global oil markets fluctuate, many Nigerians are forced to grapple with the question: how affordable is fuel in an oil-rich country compared to others around the world? This project explores the **economic reality of fuel affordability** in Nigeria by examining how fuel prices interact with wages and working hours, and how this compares across selected countries, both oil-producing and non-oil-producing. Using the six stages of data analysis—Ask, Prepare, Process, Analyze, Share, and Act—I investigated the relationship between **minimum wage, fuel cost, and the number of hours the average citizen must work to afford one liter of petrol**. The goal is to shed light on the real-life implications of fuel affordability for everyday Nigerians and to understand how this challenge fits into a global context. By leveraging thoughtful data analysis, this project uncovers the deeper socioeconomic impact of fuel pricing and wages—insights that are vital for shaping policy, improving economic equity, and empowering citizens in energy-rich nations like Nigeria.
+Nigeria, often referred to as the “Giant of Africa,” is a major oil-producing nation yet rising fuel prices continue to place a heavy burden on its citizens. As global oil markets fluctuate, many Nigerians are forced to grapple with the question: how affordable is fuel in an oil-rich country compared to others around the world? This project explores the **economic reality of fuel affordability** in Nigeria by examining how fuel prices interact with wages and working hours, and how this compares across selected countries, both oil-producing and non-oil-producing. Using the six stages of data analysis—Ask, Prepare, Process, Analyze, Share, and Act. I investigated the relationship between **minimum wage, fuel cost, and the number of hours the average citizen must work to afford one liter of petrol**. The goal is to shed light on the real-life implications of fuel affordability for everyday Nigerians and to understand how this challenge fits into a global context. By leveraging thoughtful data analysis, this project uncovers the deeper socioeconomic impact of fuel pricing and wages insights that are vital for shaping policy, improving economic equity, and empowering citizens in energy-rich nations like Nigeria.
+
+
+---
+
+## [Health Performance Dashboard For Smarter Decision](https://github.com/judoski366/Health-Performance-Dashboard-For-Smarter-Decision)
+
+![](https://github.com/judoski366/Health-Performance-Dashboard-For-Smarter-Decision/blob/main/Health%20dashboard.PNG)
+
+
+What if your health could speak to you in real time—warning you of risks, celebrating progress, and guiding your next move? That’s exactly what the **Health Tracker Performance Dashboard** aims to achieve: a smart, data-powered wellness assistant that turns raw health data into personalized, actionable insights. In a world where prevention is more powerful than cure, this project leverages the six phases of data analysis—Ask, Prepare, Process, Analyze, Share, and Act, to create an interactive dashboard that does more than just track numbers. It monitors vital signs, uncovers hidden patterns, and empowers users to make informed decisions about their fitness and well-being. Designed with both usability and impact in mind, the dashboard offers intuitive visualizations, personalized health insights, and real-time feedback to enhance engagement and drive proactive health management. From fitness enthusiasts to healthcare professionals, this project showcases how thoughtful data design can revolutionize the way we understand and manage personal health one insight at a time.
+
+
+
 
 
 
