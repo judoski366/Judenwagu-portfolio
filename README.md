@@ -48,6 +48,19 @@ Nigeria, often referred to as the “Giant of Africa,” is a major oil-producin
 What if your health could speak to you in real time—warning you of risks, celebrating progress, and guiding your next move? That’s exactly what the **Health Tracker Performance Dashboard** aims to achieve: a smart, data-powered wellness assistant that turns raw health data into personalized, actionable insights. In a world where prevention is more powerful than cure, this project leverages the six phases of data analysis—Ask, Prepare, Process, Analyze, Share, and Act, to create an interactive dashboard that does more than just track numbers. It monitors vital signs, uncovers hidden patterns, and empowers users to make informed decisions about their fitness and well-being. Designed with both usability and impact in mind, the dashboard offers intuitive visualizations, personalized health insights, and real-time feedback to enhance engagement and drive proactive health management. From fitness enthusiasts to healthcare professionals, this project showcases how thoughtful data design can revolutionize the way we understand and manage personal health one insight at a time.
 
 
+## [Call-Center-Performance-Dashboard](https://github.com/judoski366/Call-Center-Performance-Dashboard)
+
+![](https://github.com/judoski366/Call-Center-Performance-Dashboard/blob/main/call%20centre%20image.jpg)
+
+
+In today’s fast-paced customer service landscape, call centers serve as the frontline for resolving customer queries and maintaining satisfaction. However, effectively managing high call volumes, evaluating agent performance, and pinpointing areas for operational improvement remain persistent challenges.
+
+This project aims to harness call center data to deliver actionable insights into agent productivity, call volume patterns, and customer interaction quality. Key objectives include identifying top and underperforming agents, tracking call traffic trends, and evaluating service efficiency.
+
+By adopting a data-driven approach, this dashboard empowers stakeholders to make informed decisions, streamline operations, elevate customer experiences, and boost overall agent performance.
+
+
+
 
 
 
