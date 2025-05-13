@@ -60,6 +60,16 @@ This project aims to harness call center data to deliver actionable insights int
 By adopting a data-driven approach, this dashboard empowers stakeholders to make informed decisions, streamline operations, elevate customer experiences, and boost overall agent performance.
 
 
+## [Vanarsdel-Sales-Analysis-Navigating-Numbers-for-Strategic-Growth](https://github.com/judoski366/Vanarsdel-Sales-Analysis-Navigating-Numbers-for-Strategic-Growth/blob/main/README.md#vanarsdel-sales-analysis-navigating-numbers-for-strategic-growth)
+
+
+![](https://github.com/judoski366/Vanarsdel-Sales-Analysis-Navigating-Numbers-for-Strategic-Growth/blob/main/vanarsdel%20image.jpg)
+
+VanArsdel is a prominent manufacturer and distributor of sporting goods, with operations spanning the United States and various international markets. Its diverse product portfolio comprises both in-house manufactured items and goods sourced from third-party suppliers.
+
+In this project, my role as a data analyst is to evaluate VanArsdel’s financial performance by analyzing key metrics such as total production costs, revenue streams, and overall profitability. Furthermore, I will investigate the company’s customer distribution across different geographic regions to identify trends and opportunities for strategic growth.
+
+
 
 
 
