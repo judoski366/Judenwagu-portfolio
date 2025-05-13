@@ -71,6 +71,30 @@ In this project, my role as a data analyst is to evaluate VanArsdel’s financia
 
 
 
+## [Unlocking-Hidden-Insights-To-A-Deep-Dive-into-Marketing-Campaign-Performance-with-SQL](https://github.com/judoski366/Unlocking-Hidden-Insights-To-A-Deep-Dive-into-Marketing-Campaign-Performance-with-SQL)
+
+![](https://github.com/judoski366/Unlocking-Hidden-Insights-To-A-Deep-Dive-into-Marketing-Campaign-Performance-with-SQL/blob/main/Marketing%20Image.jpg)
+
+In today’s rapidly evolving digital landscape, marketing strategies have become increasingly reliant on data-driven insights to reach and engage potential customers. Our company has been actively running digital marketing campaigns across platforms such as Facebook, Instagram, and Pinterest, with a strong focus on maximizing return on investment (ROI) and promoting brand visibility.
+
+To support these efforts, we have systematically collected comprehensive daily performance data, including key metrics such as impressions, clicks, spend, conversions, and engagement indicators like likes, shares, and comments. This project leverages SQL to perform a detailed analysis of that data, with the goal of evaluating campaign effectiveness, identifying trends, and uncovering opportunities for strategic optimization.
+
+As a data analyst for the company, I led the effort to transform raw campaign data into actionable insights using the six phases of the data analysis process:
+
+
+## [Harnessing-Consumer-Complaint-Data-to-Transform-Customer-Service](https://github.com/judoski366/Harnessing-Consumer-Complaint-Data-to-Transform-Customer-Service)
+
+![](https://github.com/judoski366/Harnessing-Consumer-Complaint-Data-to-Transform-Customer-Service/blob/main/customer%20care%20image.jpg)
+
+In today’s competitive business environment, effectively leveraging consumer complaint data has become essential for enhancing customer service and gaining a strategic edge. Each complaint carries valuable insights into service shortcomings and evolving customer expectations. When analyzed systematically, this data can reveal patterns, identify root causes, and highlight emerging trends that are critical for business growth.
+
+A strategic approach to complaint data analysis moves beyond resolving individual issues—it offers a broader understanding of customer behavior and needs. These insights can inform key decisions across product development, marketing, and operational processes. By viewing complaints not as setbacks but as opportunities, companies can convert dissatisfied customers into loyal advocates.
+
+The emergence of advanced analytics tools has transformed how businesses manage and interpret complaint data. These tools enable more efficient trend detection, quicker issue resolution, and proactive planning for potential challenges. Embracing a data-driven strategy allows organizations to turn customer service into a powerful differentiator, promoting continuous improvement and deeper customer engagement.
+
+In this project, I take on the role of data analyst within my organization to explore this dynamic landscape. Using the six phases of data analysis
+
+
 
 
 
