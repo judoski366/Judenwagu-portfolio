@@ -7,7 +7,7 @@ I'm a certified data analyst with over 3 years of experience helping businesses 
 
 I have a proven track record of delivering impactful projects and working closely with teams to turn data into action. I'm skilled in tools like Excel, Google Sheets, SQL, Power BI, Tableau, and Python—but more importantly, I know how to translate complex information into something meaningful for any audience, whether it's a client, a manager, or a teammate.
 
-Currently, I'm learning about data governance as I prepare to transition into data engineering. I'm committed to continuous learning and growth in the field, and I’m always excited to take on new challenges and collaborate on projects that make a real-world impact.
+Currently, I'm learning about data governance as I prepare to transition into data engineering. I'm committed to continuous learning and growth in this field, and I’m always excited to take on new challenges and collaborate on projects that make a real-world impact.
 
 ---
 
